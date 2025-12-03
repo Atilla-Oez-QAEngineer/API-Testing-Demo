@@ -6,8 +6,7 @@ Dieses Repository enthält ein API-Testprojekt mit Postman.
 
 - **Collections/** – Exportierte Postman-Collections mit Beispiel-Requests und Tests
 - **Documentation/** – Beschreibung der getesteten Endpunkte und Testfälle
-- **Screenshots/** – (optional) Screenshots von Testausführungen
+- **Screenshots/** – Screenshots von Testausführungen
 
-Beispiel-APIs, die hier getestet werden (werden in den nächsten Tagen ergänzt):
-- https://reqres.in
+Beispiel-APIs, die hier getestet werden
 - https://dummyjson.com
